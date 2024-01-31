@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: DiamondPrediction
+Version: 0.0.0.1
+Author: Dibyendu
+Author-email: dchowdhury513@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: flask
